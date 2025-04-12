@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![roadmap.sh](https://roadmap.sh/card/tall/65dfb4168947e435e74be5cf?variant=dark)](https://roadmap.sh)
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/65dfb4168947e435e74be5cf?variant=dark" alt="roadmap.sh"/></a>
