@@ -1,9 +1,12 @@
 # 💫 About Me:
 Desarrollador/Programador de sistemas con 7 años de experiencia en el diseño e implementación de soluciones tecnológicas en sectores como banca y finanzas, comercio electrónico, geolocalización y administración.
+<br><br>
 Cuento con sólidas habilidades en el desarrollo y programación en múltiples entornos, así como en el diseño, creación y mantenimiento de bases de datos, asegurando sistemas eficientes, escalables y de alto rendimiento.
+<br><br>
 También, cuento con experiencia en la gestión de proyectos bajo las metodologías Scrum, liderando equipos de desarrollo y asegurando la entrega puntual de productos de alta calidad.
+<br><br>
 Estoy en búsqueda activa de oportunidades desafiantes que me permitan aplicar mis conocimientos, contribuir al éxito de proyectos innovadores y continuar impulsando mi crecimiento profesional y técnico.
-
+<br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/francisco-thielen-ingeniero-software/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:franthielengaravito@gmail.com) 
