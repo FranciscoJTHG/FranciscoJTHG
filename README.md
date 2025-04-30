@@ -10,6 +10,7 @@ Estoy en la búsqueda activa de oportunidades desafiantes que me permitan aplica
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/francisco-thielen-ingeniero-software/) 
+
 [![roadmap.sh](https://roadmap.sh/card/tall/65dfb4168947e435e74be5cf?variant=dark)](https://roadmap.sh)
 
 # 💻 Tech Stack:
