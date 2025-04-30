@@ -9,8 +9,7 @@ Estoy en la búsqueda activa de oportunidades desafiantes que me permitan aplica
 <br><br>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/francisco-thielen-ingeniero-software/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:franthielengaravito@gmail.com) 
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/francisco-thielen-ingeniero-software/) 
 [![roadmap.sh](https://roadmap.sh/card/tall/65dfb4168947e435e74be5cf?variant=dark)](https://roadmap.sh)
 
 # 💻 Tech Stack:
