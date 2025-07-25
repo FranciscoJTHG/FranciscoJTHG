@@ -7,9 +7,7 @@ También, cuento con experiencia en la gestión de proyectos bajo la metodologí
 <br><br>
 Estoy en la búsqueda activa de oportunidades desafiantes que me permitan aplicar mis conocimientos, contribuir al éxito de proyectos innovadores y continuar impulsando mi carrera así como crecimiento profesional y técnico.
 <br><br>
-Portafolio: 
-[![Portafolio de Proyectos]]
-(https://fjthielengportafolio.up.railway.app/)
+Portafolio de Proyectos: https://fjthielengportafolio.up.railway.app/
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/francisco-thielen-ingeniero-software/) 
