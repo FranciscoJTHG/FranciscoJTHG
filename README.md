@@ -1,16 +1,15 @@
 # 💫 About Me:
 Desarrollador/Programador de software con 7 años de experiencia en el diseño e implementación de soluciones tecnológicas en sectores como banca y finanzas, comercio electrónico, tecnología e información geoespacial y sistemas ERP.
 <br><br>
-Cuento con sólidas habilidades en el desarrollo/programación de software en múltiples entornos, así como en el diseño, creación y mantenimiento de bases de datos, asegurando sistemas eficientes, escalables y de alto rendimiento.
+Desarrollador Full Stack con cierta inclinación al backend y bases de
+datos, mi objetivo principal es contribuir al logro de metas estratégicas mediante el desarrollo de soluciones innovadoras, como la implementación de arquitecturas backend escalables que soporten un alto volumen de usuarios, la optimización de bases de datos para reducir tiempos de respuesta, o el diseño de herramientas internas que automatizan procesos clave, ahorrando tiempo y recursos.
 <br><br>
-También, cuento con experiencia en la gestión de proyectos bajo la metodología Scrum, liderando equipos de desarrollo de software y asegurando la entrega puntual de productos de alta calidad.
-<br><br>
-Estoy en la búsqueda activa de oportunidades desafiantes que me permitan aplicar mis conocimientos, contribuir al éxito de proyectos innovadores y continuar impulsando mi carrera así como crecimiento profesional y técnico.
+Cuento con experiencia en la participación y liderazgo de proyectos, utilizando metodologías ágiles como Scrum para garantizar una gestión eficiente y adaptativa. Estas metodologías me han permitido priorizar funcionalidades clave, entregar incrementos de valor en ciclos cortos (MVP), y ajustar rápidamente el producto en función del feedback del cliente y las necesidades del negocio. Este enfoque asegura un desarrollo iterativo y colaborativo, maximizando el impacto desde las primeras etapas del proyecto.
 <br><br>
 Portafolio de Proyectos: https://fjthielengportafolio.up.railway.app/
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/francisco-thielen-ingeniero-software/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-thielen-ingeniero-software/) 
 
 [![roadmap.sh](https://roadmap.sh/card/tall/65dfb4168947e435e74be5cf?variant=dark)](https://roadmap.sh)
 
