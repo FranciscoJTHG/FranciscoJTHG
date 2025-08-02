@@ -70,4 +70,4 @@ Portafolio de Proyectos: https://fjthielengportafolio.up.railway.app/
 ---
 [![](https://visitcount.itsvg.in/api?id=FranciscoJTHG&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Proudly created with GPRM ( https://gprm.itsvg.in )
