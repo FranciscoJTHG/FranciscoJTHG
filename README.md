@@ -1,10 +1,9 @@
-# 💫 About Me:
-Desarrollador/Programador de software con 7 años de experiencia en el diseño e implementación de soluciones tecnológicas en sectores como banca y finanzas, comercio electrónico, tecnología e información geoespacial y sistemas ERP.
+<!-- # 💫 Sobre Mí: -->
+Desarrollador de software con 7 años de experiencia diseñando e implementando soluciones de alto impacto en sectores como banca y finanzas, e-commerce, sistemas geoespacial y sistemas ERP.
 <br><br>
-Desarrollador Full Stack con cierta inclinación al backend y bases de
-datos, mi objetivo principal es contribuir al logro de metas estratégicas mediante el desarrollo de soluciones innovadoras, como la implementación de arquitecturas backend escalables que soporten un alto volumen de usuarios, la optimización de bases de datos para reducir tiempos de respuesta, o el diseño de herramientas internas que automatizan procesos clave, ahorrando tiempo y recursos.
+Como Desarrollador Full Stack especializado en Backend y Bases de Datos, mi objetivo es impulsar las metas estratégicas del negocio. Lo logro a través de soluciones innovadoras como la implementación de arquitecturas backend escalables para soportar un alto volumen de usuarios, la optimización de bases de datos para reducir drásticamente los tiempos de respuesta, y el diseño de herramientas internas que automatizan procesos clave, generando ahorros significativos en tiempo y recursos.
 <br><br>
-Cuento con experiencia en la participación y liderazgo de proyectos, utilizando metodologías ágiles como Scrum para garantizar una gestión eficiente y adaptativa. Estas metodologías me han permitido priorizar funcionalidades clave, entregar incrementos de valor en ciclos cortos (MVP), y ajustar rápidamente el producto en función del feedback del cliente y las necesidades del negocio. Este enfoque asegura un desarrollo iterativo y colaborativo, maximizando el impacto desde las primeras etapas del proyecto.
+Mi experiencia abarca tanto la participación activa como el liderazgo técnico en proyectos, donde aplico metodologías ágiles como Scrum para garantizar una gestión eficiente y adaptativa. Este enfoque me permite entregar valor de forma incremental (MVP), priorizar funcionalidades de alto impacto y ajustar el producto rápidamente basándome en el feedback del cliente, asegurando así el éxito del proyecto desde sus primeras etapas.
 <br><br>
 Portafolio de Proyectos: https://fjthielengportafolio.up.railway.app/
 
