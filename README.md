@@ -12,7 +12,7 @@ Portafolio de Proyectos: https://fjthielengportafolio.up.railway.app/
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-thielen-ingeniero-software/) 
 
 ## 🗺️ Ruta de Aprendizaje: 
-Este roadmap es mi mapa y mi brújula, guiando mi enfoque para construir una base sólida, habilidades relevantes en el mundo tecnológico actual y asi poder convertirme en un desarrollador de software integral.<br><br>
+Este roadmap es mi mapa y mi brújula: la guía que dirige mi enfoque para construir una base sólida y adquirir las habilidades clave del sector, con el objetivo de ser un desarrollador de software integral.<br><br>
 [![roadmap.sh](https://roadmap.sh/card/tall/65dfb4168947e435e74be5cf?variant=dark)](https://roadmap.sh)
 
 # 💻 Tech Stack:
