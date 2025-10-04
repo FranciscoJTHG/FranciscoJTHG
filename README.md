@@ -1,9 +1,14 @@
 <!-- # 💫 Sobre Mí: -->
-Desarrollador de software con 7 años de experiencia diseñando e implementando soluciones de alto impacto en sectores como banca y finanzas, e-commerce, sistemas geoespacial y sistemas ERP.
+ Ingeniero de software con 7 años de experiencia diseñando e implementando soluciones de alto impacto en sectores como banca y finanzas, e-commerce, sistemas geoespacial y sistemas ERP, construyendo sistemas robustos y escalables. Mi enfoque combina una experiencia técnica con una visión de producto, aplicando metodologías ágiles como Scrum para entregar valor incremental (MVP) y asegurar el éxito del proyecto desde la primera línea de código.
 <br><br>
-Como Desarrollador Full Stack especializado en Backend y Bases de Datos, mi objetivo es impulsar las metas estratégicas del negocio. Lo logro a través de soluciones innovadoras como la implementación de arquitecturas backend escalables para soportar un alto volumen de usuarios, la optimización de bases de datos para reducir drásticamente los tiempos de respuesta, y el diseño de herramientas internas que automatizan procesos clave, generando ahorros significativos en tiempo y recursos.
-<br><br>
-Mi experiencia abarca tanto la participación activa como el liderazgo técnico en proyectos, donde aplico metodologías ágiles como Scrum para garantizar una gestión eficiente y adaptativa. Este enfoque me permite entregar valor de forma incremental (MVP), priorizar funcionalidades de alto impacto y ajustar el producto rápidamente basándome en el feedback del cliente, asegurando así el éxito del proyecto desde sus primeras etapas.
+Como Desarrollador Full Stack especializado en Backend y Bases de Datos, mi objetivo es impulsar las metas estratégicas del negocio. Aporto resultados a través de las siguientes áreas:
+<br>
+<ul>
+  <li>Diseño de Arquitecturas Backend Robustas: Utilizando mi experiencia dual en Java/Spring y JavaScript/Node.js para construir el sistema escalable que su producto necesita.</li>
+  <li>Optimización de Rendimiento: Especializado en refinar bases de datos y código para reducir los tiempos de respuesta y mejorar la experiencia del usuario.</li>
+  <li>Cultura DevOps: Estableciendo pipelines de integración y despliegue continuo que automatizan las pruebas y la entrega. Esto, combinado con Docker, minimiza el riesgo de errores en producción y acelera drásticamente la velocidad con la que las nuevas funcionalidades llegan a sus usuarios.</li>
+  <li>Integración de Inteligencia Artificial: Desarrollando funcionalidades avanzadas (chatbots, análisis de datos, etc.) que otorgan a su aplicación una ventaja competitiva.</li>
+</ul>
 <br><br>
 Portafolio de Proyectos: https://fjthielengportafolio.up.railway.app/
 
