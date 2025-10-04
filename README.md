@@ -9,7 +9,7 @@ Como Desarrollador Full Stack especializado en Backend y Bases de Datos, mi obje
   <li>Cultura DevOps: Estableciendo pipelines de integración y despliegue continuo que automatizan las pruebas y la entrega. Esto, combinado con Docker, minimiza el riesgo de errores en producción y acelera drásticamente la velocidad con la que las nuevas funcionalidades llegan a sus usuarios.</li>
   <li>Integración de Inteligencia Artificial: Desarrollando funcionalidades avanzadas (chatbots, análisis de datos, etc.) que otorgan a su aplicación una ventaja competitiva.</li>
 </ul>
-<br><br>
+<br>
 Portafolio de Proyectos: https://fjthielengportafolio.up.railway.app/
 
 ## 🌐 Socials:
