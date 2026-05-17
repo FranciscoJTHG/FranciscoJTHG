@@ -1,5 +1,5 @@
 <!-- # 💫 Sobre Mí: -->
- Ingeniero de software con 7 años de experiencia diseñando e implementando soluciones de alto impacto en sectores como banca y finanzas, e-commerce, sistemas geoespacial y sistemas ERP, construyendo sistemas robustos y escalables. Mi enfoque combina una experiencia técnica con una visión de producto, aplicando metodologías ágiles como Scrum para entregar valor incremental (MVP) y asegurar el éxito del proyecto desde la primera línea de código.
+ Ingeniero de software con 8 años de experiencia diseñando e implementando soluciones de alto impacto en sectores como banca y finanzas, e-commerce, sistemas geoespacial y sistemas ERP, construyendo sistemas robustos y escalables. Mi enfoque combina una experiencia técnica con una visión de producto, aplicando metodologías ágiles como Scrum para entregar valor incremental (MVP) y asegurar el éxito del proyecto desde la primera línea de código.
 <br><br>
 Como Desarrollador Full Stack especializado en Backend y Bases de Datos, mi objetivo es impulsar las metas estratégicas del negocio. Aporto resultados a través de las siguientes áreas:
 <br>
